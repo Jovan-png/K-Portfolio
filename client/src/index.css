@@ -15,7 +15,6 @@ body{
     background-image: url("./assets/img/swiggles.png");
 }
 a{
-  color: #fff;
   text-decoration: none;
 }
 .header{
@@ -52,8 +51,13 @@ background-image: url("./assets/img/swiggles.png");
   float: right;
 }
 
+.NAV-Active{
+  color: #01A2AC;
+}
 
-
+.NAV-Not-Active{
+  color: #fff;
+}
 /* Home images */
 .hero{
   position: relative;

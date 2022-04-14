@@ -4,14 +4,14 @@ import kierra from '../../assets/img/kierra.png'
 
 function Nav(props){
     
-const tab = ["About","Gallery", "Music"]
+const tab = ["about","gallery", "music"]
     return(
       <div className="bg-img">
         <header className="header">
             
             <ul>
              <a data-testid="link">
-                <h1>Kierra Alexis</h1>
+                <h1 className="shake-slow">Kierra Alexis</h1>
             </a>
             {tab.map(tabs => (
         <li className="nav-item" key={tabs}>

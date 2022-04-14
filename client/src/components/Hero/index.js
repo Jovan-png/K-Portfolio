@@ -52,26 +52,26 @@ function Hero() {
         <div className="container">
   <div>
     <div className="content">
-      <h2>Jane Doe</h2>
-      <span>UI & UX Designer</span>
+      <h2></h2>
+      <span></span>
     </div>
   </div>
   <div>
     <div className="content">
-      <h2>Alex Smith</h2>
-      <span>CEO Expert</span>
+      <h2></h2>
+      <span></span>
     </div>
   </div>
   <div>
     <div className="content">
-      <h2>Emily New</h2>
-      <span>Web Designer</span>
+      <h2></h2>
+      <span></span>
     </div>
   </div>
   <div>
     <div className="content">
-      <h2>Lisa Boley</h2>
-      <span>Marketing Coordinator</span>
+      <h2></h2>
+      <span></span>
     </div>
   </div>
 </div>
