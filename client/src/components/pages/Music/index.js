@@ -3,7 +3,7 @@ import React from "react";
 
 function Music(){
     return(
-        <div className="about-container">
+        <div className="music-con">
             <h1>About Me</h1>
             <center>
                 <img  className ='jovan-img' ></img>
